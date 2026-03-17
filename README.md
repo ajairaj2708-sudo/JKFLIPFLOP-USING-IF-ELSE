@@ -54,6 +54,7 @@ module exp7 (j, k, clk, rst, q);
 endmodule
 ```
 Developed by:AJAIRAJ.J
+
 RegisterNumber:212225220004
 
 **RTL LOGIC FOR FLIPFLOPS**
